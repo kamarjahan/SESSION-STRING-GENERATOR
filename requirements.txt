@@ -3,4 +3,4 @@ Telethon~=1.23.0
 TgCrypto
 SQLAlchemy~=1.4.21
 psycopg2
-d
+pyromod~=1.5
