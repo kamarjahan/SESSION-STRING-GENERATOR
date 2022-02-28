@@ -1,3 +1,5 @@
+#devourdevils
+
 import Config
 import logging
 from pyromod import listen
