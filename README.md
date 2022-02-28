@@ -18,7 +18,7 @@ THIS BOT IS USED FOR GENERATING YOUR PYROGRAM AND TELETHON SSTRING SESSION MAINT
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/kamarjahan/SESSION-STRING-GENERATOR">
+<a href="https://heroku.com/deploy?template=https://github.com/kamarjahan/SESSION-STRING-GENERATOR/tree/DEVOUR">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
