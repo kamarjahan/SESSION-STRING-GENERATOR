@@ -1,7 +1,7 @@
 {
-  "name": "String-Session-Bot",
+  "name": "DEVOUR SESSION BOT",
   "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://telegra.ph/file/7e23ca7ad0d6acea43fe0.jpg",
+  "logo": "https://telegra.ph/file/0f26f3142511f4271c92f.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": true,
-      "value": ""
+      "value": "-1001531692314"
     }
   }
 }
